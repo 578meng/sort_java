@@ -6,7 +6,7 @@ class MyArray{
     private  int data[] = new int[length];
 
 
-    public void add() throws IOException  // 添加数据
+    public void add() throws IOException  // 添加数据123456
     {
         Scanner  scanner  =  new  Scanner(System. in );
         for(int i = 0; this.length > i; i++) {
