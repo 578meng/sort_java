@@ -12,7 +12,7 @@ class MyArray{
         for(int i = 0; this.length > i; i++) {
             this.data[i] = scanner.nextInt();
         }
-        System.out.println("数据输入成功");// 针不戳
+        System.out.println("数据输入成功");// 针不戳5555555
         for(int i = 0; this.length > i; i++) {
             System.out.print(this.data[i]+"  ");
         }
